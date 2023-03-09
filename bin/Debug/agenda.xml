@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <tblAgenda>
+    <id>0</id>
+    <ativo>1</ativo>
+    <amazon>0</amazon>
+    <origem>D:\Bases\Bagnolin\DADOS.GDB</origem>
+    <destino>D:\Bases\Bagnolin\DADOS.GBK</destino>
+    <opcoes>3;9;</opcoes>
+    <plano>teste</plano>
+    <hora>PT20H23M</hora>
+    <diabackup>segunda-feira;terça-feira;quarta-feira;quinta-feira;sexta-feira;</diabackup>
+    <numerobackup>1</numerobackup>
+    <diretorio_backup>D:\Bases\Bagnolin</diretorio_backup>
+    <check>false</check>
+  </tblAgenda>
+</NewDataSet>

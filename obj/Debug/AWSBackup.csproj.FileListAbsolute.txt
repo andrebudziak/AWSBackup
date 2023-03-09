@@ -1,0 +1,14 @@
+D:\Projetos\AWSBackup\AWSBackup\bin\Debug\AWSBackup.exe.config
+D:\Projetos\AWSBackup\AWSBackup\bin\Debug\AWSBackup.exe
+D:\Projetos\AWSBackup\AWSBackup\bin\Debug\AWSBackup.pdb
+D:\Projetos\AWSBackup\AWSBackup\bin\Debug\DotNetZip.dll
+D:\Projetos\AWSBackup\AWSBackup\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\AWSBackup\AWSBackup\bin\Debug\DotNetZip.xml
+D:\Projetos\AWSBackup\AWSBackup\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\Projetos\AWSBackup\AWSBackup\obj\Debug\AWSBackup.frmPrincipal.resources
+D:\Projetos\AWSBackup\AWSBackup\obj\Debug\AWSBackup.Properties.Resources.resources
+D:\Projetos\AWSBackup\AWSBackup\obj\Debug\AWSBackup.csproj.GenerateResource.Cache
+D:\Projetos\AWSBackup\AWSBackup\obj\Debug\AWSBackup.exe
+D:\Projetos\AWSBackup\AWSBackup\obj\Debug\AWSBackup.pdb
+D:\Projetos\AWSBackup\AWSBackup\obj\Debug\AWSBackup.csproj.CoreCompileInputs.cache
+D:\Projetos\AWSBackup\AWSBackup\obj\Debug\AWSBackup.csprojResolveAssemblyReference.cache

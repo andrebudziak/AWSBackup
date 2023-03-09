@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSBackup", "AWSBackup\AWSBackup.csproj", "{41F80024-6971-4353-A0EF-4EF22049E787}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupAWSBackup", "SetupAWSBackup\SetupAWSBackup.vdproj", "{6C3DFE74-39D7-4A15-8259-E2375689038E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41F80024-6971-4353-A0EF-4EF22049E787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F80024-6971-4353-A0EF-4EF22049E787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F80024-6971-4353-A0EF-4EF22049E787}.Debug|x86.ActiveCfg = Debug|x86
+		{41F80024-6971-4353-A0EF-4EF22049E787}.Debug|x86.Build.0 = Debug|x86
+		{41F80024-6971-4353-A0EF-4EF22049E787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F80024-6971-4353-A0EF-4EF22049E787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41F80024-6971-4353-A0EF-4EF22049E787}.Release|x86.ActiveCfg = Release|x86
+		{41F80024-6971-4353-A0EF-4EF22049E787}.Release|x86.Build.0 = Release|x86
+		{6C3DFE74-39D7-4A15-8259-E2375689038E}.Debug|Any CPU.ActiveCfg = Debug
+		{6C3DFE74-39D7-4A15-8259-E2375689038E}.Debug|x86.ActiveCfg = Debug
+		{6C3DFE74-39D7-4A15-8259-E2375689038E}.Debug|x86.Build.0 = Debug
+		{6C3DFE74-39D7-4A15-8259-E2375689038E}.Release|Any CPU.ActiveCfg = Release
+		{6C3DFE74-39D7-4A15-8259-E2375689038E}.Release|x86.ActiveCfg = Release
+		{6C3DFE74-39D7-4A15-8259-E2375689038E}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF5F2467-DFB6-48DD-A5B5-91C022AFAD40}
+	EndGlobalSection
+EndGlobal

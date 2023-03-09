@@ -1,0 +1,16 @@
+D:\Projetos\AWSBackup\AWSBackup\bin\Release\AWSBackup.exe.config
+D:\Projetos\AWSBackup\AWSBackup\bin\Release\AWSBackup.exe
+D:\Projetos\AWSBackup\AWSBackup\bin\Release\AWSBackup.pdb
+D:\Projetos\AWSBackup\AWSBackup\bin\Release\AWSSDK.Core.dll
+D:\Projetos\AWSBackup\AWSBackup\bin\Release\AWSSDK.S3.dll
+D:\Projetos\AWSBackup\AWSBackup\bin\Release\DotNetZip.dll
+D:\Projetos\AWSBackup\AWSBackup\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\AWSBackup\AWSBackup\bin\Release\SprightlySoftAWS.dll
+D:\Projetos\AWSBackup\AWSBackup\bin\Release\DotNetZip.xml
+D:\Projetos\AWSBackup\AWSBackup\bin\Release\FirebirdSql.Data.FirebirdClient.pdb
+D:\Projetos\AWSBackup\AWSBackup\obj\Release\AWSBackup.frmPrincipal.resources
+D:\Projetos\AWSBackup\AWSBackup\obj\Release\AWSBackup.Properties.Resources.resources
+D:\Projetos\AWSBackup\AWSBackup\obj\Release\AWSBackup.csproj.GenerateResource.Cache
+D:\Projetos\AWSBackup\AWSBackup\obj\Release\AWSBackup.csproj.CoreCompileInputs.cache
+D:\Projetos\AWSBackup\AWSBackup\obj\Release\AWSBackup.exe
+D:\Projetos\AWSBackup\AWSBackup\obj\Release\AWSBackup.pdb
